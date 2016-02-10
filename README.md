@@ -1,4 +1,4 @@
-# `h5ncml`
+# h5ncml
 
 Python command line program and module for generating NcML (netCDF XML) for HDF5 files.
 
@@ -10,6 +10,6 @@ Python command line program and module for generating NcML (netCDF XML) for HDF5
 
 Run:
 
-    $ h5ncml --help
+    $ python h5ncml.py --help
 
 for more information how to use the program.
