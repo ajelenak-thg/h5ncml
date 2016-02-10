@@ -1,6 +1,8 @@
 # h5ncml
 
-Python command line program and module for generating NcML (netCDF XML) for HDF5 files.
+Python command line program and module for generating NcML (netCDF XML) from HDF5 files.
+
+**Note: Still in development.**
 
 # Installation
 
